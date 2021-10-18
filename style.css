@@ -1,0 +1,38 @@
+.starter-template {
+    margin-top: 15px;
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+.help {
+    cursor: help;
+}
+
+td.input-count-points {
+    width: 65px;
+    text-align: center;
+}
+
+input.input-count-points {
+    width: 50px;
+    text-align: right;
+}
+
+td.input-wages-points {
+    width: 125px;
+    text-align: center;
+}
+
+select.input-wages-points {
+    width: 100px;
+}
+
+td.input-rate {
+    width: 50px;
+    text-align: center;
+}
+
+input.input-rate {
+    width: 35px;
+    text-align: right;
+}
